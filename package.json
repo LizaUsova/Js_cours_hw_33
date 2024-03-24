@@ -1,0 +1,17 @@
+{
+  "name": "js_cours_hw_33",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yelyzaveta Usova",
+  "license": "ISC",
+  "dependencies": {
+    "airbnb": "^0.0.2",
+    "eslint": "^8.57.0",
+    "lodash": "^4.17.21",
+    "prettier": "^3.2.5"
+  }
+}
